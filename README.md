@@ -2,7 +2,7 @@
 Pub/Sub task queue backed by Postgres
 # Quickstart
 ```Javascript
-const PgTasks = require('node-pg-tasks');
+const PgTasks = require('@roonlabs/node-pg-tasks');
 const client  = new PgTasks({user: 'postgres', password: 'postgres', database: 'testdb'})
 
 client.subscribe(t => {

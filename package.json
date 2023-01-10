@@ -1,5 +1,5 @@
 {
-  "name": "node-pg-tasks",
+  "name": "@roonlabs/node-pg-tasks",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
