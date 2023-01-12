@@ -14,5 +14,6 @@
   "license": "ISC",
   "dependencies": {
     "pg": "^8.8.0"
-  }
+  },
+  "keywords": ["pubsub", "postgres", "taskqueue", "task", "pub/sub"]
 }
