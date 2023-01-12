@@ -1,6 +1,6 @@
 {
   "name": "@roonlabs/node-pg-tasks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -15,5 +15,11 @@
   "dependencies": {
     "pg": "^8.8.0"
   },
-  "keywords": ["pubsub", "postgres", "taskqueue", "task", "pub/sub"]
+  "keywords": [
+    "pubsub",
+    "postgres",
+    "taskqueue",
+    "task",
+    "pub/sub"
+  ]
 }
